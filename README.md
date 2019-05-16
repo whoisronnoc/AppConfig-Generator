@@ -2,6 +2,8 @@
 
 The AppConfig Generator is a tool which assists in the generation of a configuration plist for a mobile app on a device enrolled in an MDM solution.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/whoisronnoc/AppConfig-Generator/tree/deploy)
+
 The AppConfig Generator takes in a spec file which can either be created by hand, through the use of the [AppConfig Spec Creator](https://github.com/jamf/AppConfigSpecCreator), or selected from the repository of existing spec files. 
 
 It will then display a form with areas to fill out with the configuration values you would like the app to have.

@@ -1,0 +1,10 @@
+{
+  "name": "AppConfig Generator",
+  "repository": "https://github.com/jamf/AppConfig-Generator"
+	"buildpacks": [
+    {
+      "url": "heroku/java"
+    }
+  ]
+}
+
